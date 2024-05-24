@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSL2</string>
+    <string name="start_spelling">start spelling</string>
+    <string name="initial_text">Your text will appear here...</string>
+</resources>
